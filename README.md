@@ -1,0 +1,2 @@
+# 2018_datacastle_tap4fun_consumption_predict
+DataCastle2018游戏玩家付费金额预测大赛，a榜20 ，b榜25
