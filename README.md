@@ -17,3 +17,7 @@
   * `tap_fun_train.csv` : 训练数据
   * `tap4fun 数据字段解释.xlsx` : 数据字段解释
 * `A_Ranking_list_No_19.ipynb` : 最高得分 Rank19的代码
+## a榜排名  
+![image](https://github.com/wanlida/2018_datacastle_tap4fun_consumption_predict/raw/master/pictures/competition.png)
+## b榜排名
+![image](https://github.com/wanlida/2018_datacastle_tap4fun_consumption_predict/raw/master/pictures/result.png)
